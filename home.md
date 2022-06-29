@@ -10,9 +10,6 @@ dateCreated: 2022-02-19T13:54:43.646Z
 
 # Welcome to the Root CNC Wiki! 
 
-
-JAMES
-
 This is a growing area, so if there is any missing information then please check back later or better yet, ping me a message and I'll add any useful information to the site
 
 # Support the Wiki!
