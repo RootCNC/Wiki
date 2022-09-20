@@ -3,7 +3,7 @@ title: How to Contribute to the Project!
 description: How to Contribute
 published: true
 date: 2022-03-18T17:17:51.463Z
-tags: Contribute Project PR
+tags: Contribute, Project, PR
 editor: markdown
 dateCreated: 2022-02-19T13:54:43.646Z
 ---
