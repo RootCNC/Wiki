@@ -1,5 +1,5 @@
 ---
-title: Root CNC
+title: How to Contribute to the Project!
 description: How to Contribute
 published: true
 date: 2022-03-18T17:17:51.463Z
