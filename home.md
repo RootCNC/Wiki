@@ -10,7 +10,7 @@ dateCreated: 2022-02-19T13:54:43.646Z
 
 # Welcome to the Root CNC Wiki! 
 
-<img src="https://raw.githubusercontent.com/RootCNC/Wiki/main/Root-CNC/RootCNC.svg" width="600">
+<img src="https://raw.githubusercontent.com/RootCNC/Wiki/main/Root-CNC/RootCNC.svg" width="300">
 
 Home to the Root CNC 3D printed CNC machine. This wiki website is the Official Home for information about the Root CNC project.
 
