@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-05-24T19:30:47.756Z
 ---
 
-<img align="right" width=175 src="https://github.com/RootCNC/Root-2-CNC/blob/master/Media/R_Logo.png" />
+<img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-2-CNC/master/Media/R_Logo.png" />
 
 # Root 2 
 <img align="center" width=600 src="https://raw.githubusercontent.com/RootCNC/Root-2-CNC/master/Media/Docs/Build-Images/ex_20151018_134318.jpg" />
