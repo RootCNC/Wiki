@@ -1,3 +1,13 @@
+---
+title: Root 2 Bill of Materials
+description: Root 2 Bill of Materials
+published: true
+date: 2022-06-28T21:37:30.411Z
+tags: root 2, r2, BOM
+editor: markdown
+dateCreated: 2022-05-24T19:30:47.756Z
+---
+
 # Plastic Parts
 |Qty | Item  |
 |--|--|

@@ -1,3 +1,13 @@
+---
+title: Root 2 
+description: Root 2 
+published: true
+date: 2022-06-28T21:37:30.411Z
+tags: root 2, r2
+editor: markdown
+dateCreated: 2022-05-24T19:30:47.756Z
+---
+
 <img align="right" width=175 src="https://github.com/RootCNC/Root-2-CNC/blob/master/Media/R_Logo.png" />
 
 # Root 2 
